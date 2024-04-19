@@ -1,4 +1,4 @@
-p {
+.odd {
     background-color: rgb(255, 192, 203);
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
@@ -10,5 +10,9 @@ p {
 
 #number4 {
     background-color: rgb(128, 219, 128);
+    font-size: 24px;
+}
+
+.odd.cool {
     font-size: 24px;
 }
